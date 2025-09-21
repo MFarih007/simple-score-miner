@@ -1,0 +1,6 @@
+# Model files
+*.pt
+*.zip
+
+# venv directory
+miner_env
